@@ -17,7 +17,7 @@ em breve para M1/M2/M3
   
 ## INTERFACE
 
-![GUI](https://github.com/Tiger14n/RVC-GUI/raw/main/docs/GUI.JPG)
+![GUI](https://github.com/jhonnytech90/RVC-GUI/blob/main/docs/RVC_GUI_MAC-OS.png)
  <br><br>
   
 <br><br>
