@@ -31,13 +31,7 @@ For audio file inference only
 
 * Execute these commands
 
-Windows with Nvidia cards
-```bash
-python3 -m pip install -U pip setuptools wheel
-pip install -U torch torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install -r requirements.txt
-```
-Other
+MacOS
 ```
 python3 -m pip install -U pip setuptools wheel
 pip install -U torch torchaudio 
@@ -60,10 +54,6 @@ export PYTORCH_ENABLE_MPS_FALLBACK=1
 ```bash
 python rvcgui.py
 ```
-Or run this file on windows
-```
-RVC-GUI.bat
-```
 
 # Loading models
 use the import button to import a model from a zip file, 
@@ -83,16 +73,4 @@ models
     └───...
 ````
 <br>
-
-
-<br> 
-
-### How to get models?.
-* Join the[ AI Hub](https://discord.gg/aihub) Discord 
-* [Community Models on HuggingFace](https://huggingface.co/QuickWick/Music-AI-Voices/tree/main) by Wicked aka QuickWick
-
-<br>
-
-K7#4523
-
 
