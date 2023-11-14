@@ -3,7 +3,8 @@
 <h1>RVC GUI<br><br>
   
 *RVC GUI MODIFICADO PARA MACOS INTEL 🇧🇷
-em breve para M1/M2/M3
+
+*em breve para M1/M2/M3
   <br>
 
   
