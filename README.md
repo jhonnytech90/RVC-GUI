@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>RVC GUI MODIFICADO PARA MACOS INTEL 🇧🇷<br><br>
+<h1>RVC GUI MODIFICADO PARA MAC-OS INTEL 🇧🇷<br><br>
   
 
 em breve para M1/M2/M3
