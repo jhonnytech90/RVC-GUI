@@ -1,8 +1,7 @@
 <div align="center">
 
-<h1>RVC GUI<br><br>
+<h1>RVC GUI MODIFICADO PARA MACOS INTEL 🇧🇷<br><br>
   
-##RVC GUI MODIFICADO PARA MACOS INTEL 🇧🇷
 
 em breve para M1/M2/M3
   <br>
@@ -16,7 +15,7 @@ em breve para M1/M2/M3
  
 
   
-## GUI
+## INTERFACE
 
 ![GUI](https://github.com/Tiger14n/RVC-GUI/raw/main/docs/GUI.JPG)
  <br><br>
