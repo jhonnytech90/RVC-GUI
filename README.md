@@ -20,14 +20,12 @@ For audio file inference only
 ![GUI](https://github.com/Tiger14n/RVC-GUI/raw/main/docs/GUI.JPG)
  <br><br>
   
-## Direct setup for Windows users
-## [Windows-pkg](https://github.com/Tiger14n/RVC-GUI/releases/tag/Windows-pkg)
-  
 <br><br>
 ## Preparing the environment
 
 
 * Install Python version +3.8 if you have not:
+* DONWLOAD https://www.python.org/downloads/
 
 * Execute these commands
 
