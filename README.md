@@ -28,6 +28,12 @@ em breve para M1/M2/M3
 * DONWLOAD https://www.python.org/downloads/
   Caso tiver problemas instale outras versões
 
+  ## VERSOES RECOMENDADAS
+  3.8.5
+  3.9.1
+  3.13
+  
+
 * EXECUTE ESTES COMANDOS
 
 ```
@@ -42,6 +48,13 @@ python3 -m pip install -U pip setuptools wheel
 pip3 install -U torch torchaudio 
 pip3 install -r requirements.txt
 ```
+
+## SE TIVER PROBLEMAS COM DEPENDENCIAS
+Recomendo que instale de forma manual usando o brew ou o pip/pip3 por exemplo
+brew install ffmpeg
+pip install ffmpeg
+pip3 install ffmpeg
+(estes coomandos sao exemplos)
 
 * CORRIJA PROBLEMAS DO APPLE SILICON COM ESTES COMANDOS(M1/M2/M3)
 ```
