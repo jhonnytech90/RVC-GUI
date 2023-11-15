@@ -63,7 +63,7 @@ cd (ARRASTE A PASTA DO RVC PARA DENTRO DO TERMINAL OU COLE O ENDEREÇO DA LOCALI
 ```bash
 python3 rvcgui.py
 ```
-ou simplesmente abra o terminal e digite: (python3)  de um espaço e arraste o arquivo RVC_gui.py dentro do terminal e de ENTER(RETURN)
+
 
 # CARREGANDO MODELOS
 use o botão importar para importar um modelo de um arquivo zip,
