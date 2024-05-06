@@ -24,7 +24,7 @@ em breve para M1/M2/M3
 ## PREPARANDO SUA MAQUINA
 
 
-* INSTALE O PYTHON VERSÃO +3.8:
+* INSTALE O PYTHON VERSÃO 3.9.13:(IMPORTANTE)
 * DONWLOAD https://www.python.org/downloads/
   Caso tiver problemas instale outras versões
 
